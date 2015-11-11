@@ -16,8 +16,8 @@ console.log( "Tweets With Photos:", findTweetsWithPhotos(tweetData) )
 
 
 
-var getRetweetCount = function(data) {
-  // Returns the number of total retweets
+var getFavoriteCount = function(data) {
+  // Returns the number of total favorites
 }
 
-console.log( "Retweets:", getRetweetCount(tweetData) )
+console.log( "Favorites:", getFavoriteCount(tweetData) )
